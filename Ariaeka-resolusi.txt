@@ -1,0 +1,4 @@
+ARIAEKA RESOLUSI
+- Konsisten untuk belajar pemrogramman setidaknya 1 jam atau lebih setiap hari
+- membuat projek projek sebagai latihan untuk mengembangkan sebuah kemampuan dari teori teori yang sudah dipelajari
+- tahun ini setidaknya sudah bisa menguasai html, css, js, sass, dan tailwind
